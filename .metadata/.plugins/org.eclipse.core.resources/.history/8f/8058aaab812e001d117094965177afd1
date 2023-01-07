@@ -1,0 +1,7 @@
+package inheritance01;
+
+public class smal_lBird extends Animal{
+	smal_lBird() {
+		myClass = "포유류";
+	}
+}

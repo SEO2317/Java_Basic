@@ -1,0 +1,7 @@
+package inheritance01;
+
+public class small_Bird extends Animal{
+	small_Bird() {
+		myClass = "포유류";
+	}
+}

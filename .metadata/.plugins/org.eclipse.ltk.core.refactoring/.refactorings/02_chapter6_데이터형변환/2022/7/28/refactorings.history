@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;CastingTest&apos; to &apos;CastingTest1&apos;&#x0D;&#x0A;- Original project: &apos;02_chapter6_데이터형변환&apos;&#x0D;&#x0A;- Original element: &apos;CastingTest&apos;&#x0D;&#x0A;- Renamed element: &apos;CastingTest1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CastingTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{CastingTest.java[CastingTest" matchStrategy="1" name="CastingTest1" qualified="false" references="true" similarDeclarations="false" stamp="1657002843033" textual="false" version="1.0"/>
+</session>
